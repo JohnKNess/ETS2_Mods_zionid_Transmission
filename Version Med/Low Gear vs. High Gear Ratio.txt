@@ -1,0 +1,44 @@
+﻿---------1---------2---------3---------4---------5---------6---------7---------8
+12345678901234567890123456789012345678901234567890123456789012345678901234567890
+
+Author.............. : zionid
+
+Reference material.. : http://www.propickupmag.com/understanding-axle-ratios/
+
+Contents............ : The SCS file contains the modified 12-speed.sii and 
+                       12_speed_ret.sii files for each truck in the game.
+                       e.g. def\vehicle\truck\scania.r\transmission\12_speed.sii
+
+Not part of the mod. : All other files in the trucks directories have not been 
+                       modified and are not contained in either of the mods.
+
+
+
+High Gear Ratio All Trucks.scs
+--------------------------------
+This mod sets the lowest differential gear ratios that the original game 
+provides for all trucks. The result is a truck/lorry that is optimized for 
+motorway/highway trucking. 
+
+If the speed reduction is turned off you will be powering along at 130 km/h in 
+12th gear at 1500 -1/min. (e.g. Scania-R 730hp). But it takes a hell of a long
+time to get there.
+
+
+
+Low Gear Ratio All Trucks.scs
+--------------------------------
+This mod sets the highest differential gear ratios that the original game 
+provides for all trucks. The result is a truck/lorry that will pull heavy loads 
+up the steepest gradients/roads (Good for quarries).
+
+The Scania-R for example will reach 55 km/h in 10th gear and will have a speed 
+of approximately 85 km/h in 12th gear at 1500 -1/min.
+
+
+
+Medium Gear Ratio All Trucks.scs
+--------------------------------
+This mod sets a medium differential gear ratio. Trucks have a medium gear range
+that does permit real high speeds or good acceleration for heavy loads. It's 
+just something inbetween.

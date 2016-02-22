@@ -1,0 +1,39 @@
+SiiNunit
+{
+# ".package_name" does not matter as the dot at the beginning of the file means that this unit is anonymous. 
+# Please keep this form to not make any conflicts with other mod packages (name collisions).
+mod_package : .package_name
+	{
+	
+		# Package version can be any string with any length.
+		package_version: "1.4 Release 0"
+		
+		# Display name can be any string with any length.
+		display_name: "High Gear Ratio Mod"
+		
+		# Author can be any string with any length.
+		author: "zionid"
+		
+		# Categories is an array of strings. 
+		# List of categories. Currently we limit categories up to 2 per mod.
+		# truck, trailer, interior, tuning_parts, ai_traffic, sound, paint_job
+		# cargo_pack, map, ui, other
+
+		category[]: "truck"
+		category[]: "other"
+		
+		# Icon inside the root directory of the mod.
+		# Name of file inside the root of the mod package directory which 
+		# contains the icon image. 
+		# Can be only .jpg file with exact size: 276x162px
+		icon: "transmission.jpg"
+		
+		# Description file inside the root directory of the mod.
+		# Description file has to be simple text file with .txt extension 
+		# saved in UTF-8 encoding.
+		description_file: "Low Gear vs. High Gear Ratio.txt"
+		
+		# Mod is compatible with 1.19.X..
+		compatible_versions[]: "1.22.*" 
+	}
+}

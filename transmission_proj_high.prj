@@ -1,0 +1,39 @@
+[Project ID]
+	Signature=UE Proj: v.1
+[Project Information]
+	Use Relative Directory=1
+	Relative to Project File=1
+	Project Directory=D:\Git\ETS2_Mods_zionid\Transmission\Version High\def\vehicle\truck
+	Include Sub Directories=1
+	Project Tagfile=
+	Project Wordfile=
+	Project TpFile=
+	Filter=
+	Create Tagfile=0
+[Files]
+	0=daf.xf\transmission\12_speed.sii
+	1=daf.xf\transmission\12_speed_ret.sii
+	2=daf.xf_euro6\transmission\12_speed.sii
+	3=daf.xf_euro6\transmission\12_speed_ret.sii
+	4=iveco.hiway\transmission\12_speed.sii
+	5=iveco.hiway\transmission\12_speed_r.sii
+	6=iveco.stralis\transmission\12_speed.sii
+	7=iveco.stralis\transmission\12_speed_ret.sii
+	8=man.tgx\transmission\12_speed.sii
+	9=man.tgx\transmission\12_speed_ret.sii
+	10=mercedes.actros\transmission\12_speed.sii
+	11=mercedes.actros\transmission\12_speed_ret.sii
+	12=mercedes.actros2014\transmission\12_speed.sii
+	13=mercedes.actros2014\transmission\12_speed_ret.sii
+	14=renault.magnum\transmission\12_speed.sii
+	15=renault.magnum\transmission\12_speed_ret.sii
+	16=renault.premium\transmission\12_speed.sii
+	17=renault.premium\transmission\12_speed_ret.sii
+	18=scania.r\transmission\12_speed.sii
+	19=scania.r\transmission\12_speed_ret.sii
+	20=scania.streamline\transmission\12_speed.sii
+	21=scania.streamline\transmission\12_speed_ret.sii
+	22=volvo.fh16\transmission\12_speed.sii
+	23=volvo.fh16\transmission\12_speed_ret.sii
+	24=volvo.fh16_2012\transmission\12_speed.sii
+	25=volvo.fh16_2012\transmission\12_speed_ret.sii

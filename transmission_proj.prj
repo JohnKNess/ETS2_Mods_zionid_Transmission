@@ -1,0 +1,39 @@
+[Project ID]
+	Signature=UE Proj: v.1
+[Project Information]
+	Use Relative Directory=1
+	Relative to Project File=1
+	Include Sub Directories=1
+	Project Tagfile=
+	Project Wordfile=
+	Project TpFile=
+	Filter=
+	Create Tagfile=0
+[Files]
+	0=def\vehicle\truck\renault.magnum\transmission\12_speed.sii
+	1=def\vehicle\truck\scania.r\transmission\12_speed.sii
+	2=def\vehicle\truck\renault.premium\transmission\12_speed_ret.sii
+	3=def\vehicle\truck\renault.premium\transmission\12_speed.sii
+	4=def\vehicle\truck\renault.magnum\transmission\12_speed_ret.sii
+	5=def\vehicle\truck\volvo.fh16_2012\transmission\12_speed_ret.sii
+	6=def\vehicle\truck\volvo.fh16_2012\transmission\12_speed.sii
+	7=def\vehicle\truck\volvo.fh16\transmission\12_speed_ret.sii
+	8=def\vehicle\truck\volvo.fh16\transmission\12_speed.sii
+	9=def\vehicle\truck\scania.streamline\transmission\12_speed_ret.sii
+	10=def\vehicle\truck\scania.streamline\transmission\12_speed.sii
+	11=def\vehicle\truck\scania.r\transmission\12_speed_ret.sii
+	12=def\vehicle\truck\mercedes.actros2014\transmission\12_speed_ret.sii
+	13=def\vehicle\truck\mercedes.actros2014\transmission\12_speed.sii
+	14=def\vehicle\truck\mercedes.actros\transmission\12_speed_ret.sii
+	15=def\vehicle\truck\mercedes.actros\transmission\12_speed.sii
+	16=def\vehicle\truck\man.tgx\transmission\12_speed_ret.sii
+	17=def\vehicle\truck\man.tgx\transmission\12_speed.sii
+	18=def\vehicle\truck\iveco.stralis\transmission\12_speed_ret.sii
+	19=def\vehicle\truck\iveco.stralis\transmission\12_speed.sii
+	20=def\vehicle\truck\iveco.hiway\transmission\12_speed.sii
+	21=def\vehicle\truck\daf.xf_euro6\transmission\12_speed_ret.sii
+	22=def\vehicle\truck\daf.xf_euro6\transmission\12_speed.sii
+	23=def\vehicle\truck\daf.xf\transmission\12_speed_ret.sii
+	24=def\vehicle\truck\daf.xf\transmission\12_speed.sii
+	25=def\vehicle\truck\uedit_hook.txt
+	26=def\vehicle\truck\iveco.hiway\transmission\12_speed_r.sii
