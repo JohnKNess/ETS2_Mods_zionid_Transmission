@@ -1,7 +1,7 @@
 # ETS2_Mods_zionid
 Euro Truck Simulator 2  | Transmission Mod | zionid
 
-ETS Ver. 1.22.x - .\MOD Ver. 1.14
+ETS Ver. 1.22.x - MOD Ver. 1.14
 
 This is a mod for the transmission ratio inside Euro Truck Simulator 1.22.x.
 
