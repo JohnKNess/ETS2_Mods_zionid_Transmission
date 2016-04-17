@@ -14,7 +14,7 @@ accessory_transmission_data : 12_speed_r.scania.streamline.transmission
 	# Scania Opticruise (GRSO925)
 	# Differential Ratio: 2.59, 2.71, 2.92, 3.08, 3.27, 3.42, 3.80
 	# 9.16 7.33 5.82 4.66 3.72 3.00 2.44 1.96 1.55 1.24 1.00 0.80 Rev: -11.95
-	differential_ratio: 2.59
+	differential_ratio: 3.80
 	# reverse gear
 	ratios_reverse[0]: -11.95
 	# forward gears
