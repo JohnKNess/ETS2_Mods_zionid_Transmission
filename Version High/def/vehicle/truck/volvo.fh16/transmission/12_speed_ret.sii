@@ -10,7 +10,7 @@ accessory_transmission_data : 12_speed_r.volvo.fh16.transmission
 	# Volvo I-Shift/Renault Optidrive (Volvo ATO3512D)
 	# Differential Ratio: 2.47, 2.64, 2.85, 3.08, 3.40, 3.67
 	# 11.73 9.21 7.09 5.57 4.35 3.41 2.70 2.12 1.63 1.28 1.00 0.78 Rev: -10.78
-	differential_ratio: 3.67
+	differential_ratio: 2.47
 	# reverse gear
 	ratios_reverse[0]: -10.78
 	# forward gears

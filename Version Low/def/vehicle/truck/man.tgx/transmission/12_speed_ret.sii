@@ -10,7 +10,7 @@ accessory_transmission_data : 12_speed_r.man.tgx.transmission
 	# MAN ZF AS Tronic
 	# Differential Ratio: 2.71, 2.85, 3.08, 3.36, 3.63, 3.70
 	# 15.86 12.33 9.57 7.44 5.87 4.57 3.47 2.70 2.10 1.63 1.29 1.00 Rev: -14.68
-	differential_ratio: 2.71
+	differential_ratio: 3.70
 	# reverse gear
 	ratios_reverse[0]: -14.68
 	# forward gears
