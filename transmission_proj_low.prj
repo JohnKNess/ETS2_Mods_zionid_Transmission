@@ -10,6 +10,10 @@
 	Project TpFile=
 	Filter=
 	Create Tagfile=0
+	Compilable=0
+	Using VCS=0
+	Save Account=0
+	CTags Legacy Support=0
 [Files]
 	0=daf.xf\transmission\12_speed.sii
 	1=daf.xf\transmission\12_speed_ret.sii
@@ -37,3 +41,11 @@
 	23=volvo.fh16_2012\transmission\12_speed.sii
 	24=volvo.fh16_2012\transmission\12_speed_ret.sii
 	25=iveco.hiway\transmission\12_speed_r.sii
+[uemakeXp]
+	ReleaseMode=0
+[Debug Settings]
+	Program Arguments=
+	Symbol Paths=
+	Working Directory=
+	Selected Debugger=0
+	Source Paths=

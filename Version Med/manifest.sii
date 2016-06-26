@@ -6,7 +6,7 @@ mod_package : .package_name
 	{
 	
 		# Package version can be any string with any length.
-		package_version: "1.23 Release 0"
+		package_version: "1.24 Release 0"
 		
 		# Display name can be any string with any length.
 		display_name: "Medium Gear Ratio Mod"
@@ -34,6 +34,6 @@ mod_package : .package_name
 		description_file: "Low Gear vs. High Gear Ratio.txt"
 		
 		# Mod is compatible with 1.19.X..
-		compatible_versions[]: "1.23.*" 
+		compatible_versions[]: "1.24.*" 
 	}
 }

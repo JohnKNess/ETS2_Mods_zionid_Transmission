@@ -1,9 +1,9 @@
 # ETS2_Mods_zionid
 Euro Truck Simulator 2  | Transmission Mod | zionid
 
-ETS Ver. 1.23.x - MOD Ver. 1.15
+ETS Ver. 1.24.x - MOD Ver. 1.16
 
-This is a mod for the transmission ratio inside Euro Truck Simulator 1.23.x.
+This is a mod for the transmission ratio inside Euro Truck Simulator 1.24.x.
 
 The transmission ratio for all the trucks that have variable gear ratios is 
 stored in a Low Gear, High Gear and Medium Gear Ratio Mod. There are three major 
