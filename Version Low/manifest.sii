@@ -9,7 +9,7 @@ mod_package : .package_name
 		package_version: "1.27 Release 0"
 		
 		# Display name can be any string with any length.
-		display_name: "High Gear Ratio Mod"
+		display_name: "Low Gear Ratio Mod"
 		
 		# Author can be any string with any length.
 		author: "zionid"
