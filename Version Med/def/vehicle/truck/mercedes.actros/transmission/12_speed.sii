@@ -10,7 +10,7 @@ accessory_transmission_data : 12_speed.mercedes.actros.transmission
 	# Mercedes Powershift (G281)
 	# Differential Ratio: 2.533, 2.733, 2.846, 2.929, 3.077, 3.154
 	# 14.93 11.64 9.02 7.03 5.64 4.40 3.39 2.65 2.05 1.60 1.28 1.00 Rev: -12.74
-	differential_ratio: 2.929
+	differential_ratio: 2.733
 	# reverse gear
 	ratios_reverse[0]: -12.74
 	# forward gears
