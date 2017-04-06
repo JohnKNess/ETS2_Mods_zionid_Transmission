@@ -41,11 +41,13 @@
 	23=volvo.fh16\transmission\12_speed_ret.sii
 	24=volvo.fh16_2012\transmission\12_speed.sii
 	25=volvo.fh16_2012\transmission\12_speed_ret.sii
+	26=..\..\..\Low Gear vs. High Gear Ratio.txt
+	27=..\..\..\manifest.sii
 [uemakeXp]
-ReleaseMode=0
+	ReleaseMode=0
 [Debug Settings]
-Program Arguments=
-Symbol Paths=
-Working Directory=
-Selected Debugger=0
-Source Paths=
+	Program Arguments=
+	Symbol Paths=
+	Working Directory=
+	Selected Debugger=0
+	Source Paths=
