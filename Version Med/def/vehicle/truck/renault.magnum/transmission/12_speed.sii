@@ -10,7 +10,7 @@ accessory_transmission_data : 12_speed.renault.magnum.transmission
 	# Renault (AT2412D TD/AT2612D) (for Renault Premium and/or Magnum)
 	# Differential Ratio: 2.64, 2.85 3.08 3.36
 	# 14.94 11.73 9.04 7.09 5.54 4.35 3.44 2.70 2.08 1.63 1.27 1.00 Rev: -13.73
-	differential_ratio: 2.64
+	differential_ratio: 3.08
 	# reverse gear
 	ratios_reverse[0]: -13.73
 	# forward gears
