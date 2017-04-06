@@ -10,7 +10,7 @@ accessory_transmission_data : 12_speed_r.iveco.hiway.transmission
 	# IVECO ZF AS Tronic (12 AS 2330 TD)
 	# Differential Ratio: 2.64, 2.85, 3.08, 3.36, 3.40, 3.70, 3.78
 	# 15.86 12.33 9.57 7.44 5.87 4.57 3.47 2.70 2.10 1.63 1.29 1.00 Rev: -11.41
-	differential_ratio: 2.64
+	differential_ratio: 3.78
 	# reverse gear
 	ratios_reverse[0]: -11.41
 	# forward gears
