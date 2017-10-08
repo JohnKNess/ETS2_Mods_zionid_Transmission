@@ -1,5 +1,6 @@
 [Project ID]
-	Signature=UE Proj: v.1
+Signature=UE Proj: v.1
+Unicode=2
 [Project Information]
 	Use Relative Directory=1
 	Relative to Project File=1
@@ -37,3 +38,31 @@
 	24=def\vehicle\truck\daf.xf\transmission\12_speed.sii
 	25=def\vehicle\truck\uedit_hook.txt
 	26=def\vehicle\truck\iveco.hiway\transmission\12_speed_r.sii
+[FilesU]
+0=def+AFw-vehicle+AFw-truck+AFw-renault.magnum+AFw-transmission+AFw-12+AF8-speed.sii
+1=def+AFw-vehicle+AFw-truck+AFw-scania.r+AFw-transmission+AFw-12+AF8-speed.sii
+2=def+AFw-vehicle+AFw-truck+AFw-renault.premium+AFw-transmission+AFw-12+AF8-speed+AF8-ret.sii
+3=def+AFw-vehicle+AFw-truck+AFw-renault.premium+AFw-transmission+AFw-12+AF8-speed.sii
+4=def+AFw-vehicle+AFw-truck+AFw-renault.magnum+AFw-transmission+AFw-12+AF8-speed+AF8-ret.sii
+5=def+AFw-vehicle+AFw-truck+AFw-volvo.fh16+AF8-2012+AFw-transmission+AFw-12+AF8-speed+AF8-ret.sii
+6=def+AFw-vehicle+AFw-truck+AFw-volvo.fh16+AF8-2012+AFw-transmission+AFw-12+AF8-speed.sii
+7=def+AFw-vehicle+AFw-truck+AFw-volvo.fh16+AFw-transmission+AFw-12+AF8-speed+AF8-ret.sii
+8=def+AFw-vehicle+AFw-truck+AFw-volvo.fh16+AFw-transmission+AFw-12+AF8-speed.sii
+9=def+AFw-vehicle+AFw-truck+AFw-scania.streamline+AFw-transmission+AFw-12+AF8-speed+AF8-ret.sii
+10=def+AFw-vehicle+AFw-truck+AFw-scania.streamline+AFw-transmission+AFw-12+AF8-speed.sii
+11=def+AFw-vehicle+AFw-truck+AFw-scania.r+AFw-transmission+AFw-12+AF8-speed+AF8-ret.sii
+12=def+AFw-vehicle+AFw-truck+AFw-mercedes.actros2014+AFw-transmission+AFw-12+AF8-speed+AF8-ret.sii
+13=def+AFw-vehicle+AFw-truck+AFw-mercedes.actros2014+AFw-transmission+AFw-12+AF8-speed.sii
+14=def+AFw-vehicle+AFw-truck+AFw-mercedes.actros+AFw-transmission+AFw-12+AF8-speed+AF8-ret.sii
+15=def+AFw-vehicle+AFw-truck+AFw-mercedes.actros+AFw-transmission+AFw-12+AF8-speed.sii
+16=def+AFw-vehicle+AFw-truck+AFw-man.tgx+AFw-transmission+AFw-12+AF8-speed+AF8-ret.sii
+17=def+AFw-vehicle+AFw-truck+AFw-man.tgx+AFw-transmission+AFw-12+AF8-speed.sii
+18=def+AFw-vehicle+AFw-truck+AFw-iveco.stralis+AFw-transmission+AFw-12+AF8-speed+AF8-ret.sii
+19=def+AFw-vehicle+AFw-truck+AFw-iveco.stralis+AFw-transmission+AFw-12+AF8-speed.sii
+20=def+AFw-vehicle+AFw-truck+AFw-iveco.hiway+AFw-transmission+AFw-12+AF8-speed.sii
+21=def+AFw-vehicle+AFw-truck+AFw-daf.xf+AF8-euro6+AFw-transmission+AFw-12+AF8-speed+AF8-ret.sii
+22=def+AFw-vehicle+AFw-truck+AFw-daf.xf+AF8-euro6+AFw-transmission+AFw-12+AF8-speed.sii
+23=def+AFw-vehicle+AFw-truck+AFw-daf.xf+AFw-transmission+AFw-12+AF8-speed+AF8-ret.sii
+24=def+AFw-vehicle+AFw-truck+AFw-daf.xf+AFw-transmission+AFw-12+AF8-speed.sii
+25=def+AFw-vehicle+AFw-truck+AFw-uedit+AF8-hook.txt
+26=def+AFw-vehicle+AFw-truck+AFw-iveco.hiway+AFw-transmission+AFw-12+AF8-speed+AF8-r.sii
