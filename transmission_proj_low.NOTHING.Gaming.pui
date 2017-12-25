@@ -1,6 +1,6 @@
 [Open Files]
 Active File Display Mode=1
-Active File Index=26
+Active File Index=27
 Open File Line0=0
 Open File Line1=0
 Open File Line10=0
@@ -48,7 +48,7 @@ Open File Pos22=354
 Open File Pos23=328
 Open File Pos24=358
 Open File Pos25=0
-Open File Pos26=334
+Open File Pos26=1280
 Open File Pos27=2
 Open File Pos3=520
 Open File Pos4=511
@@ -117,5 +117,5 @@ Open File9=.+AFw-man.tgx+AFw-transmission+AFw-12+AF8-speed.sii
 Remember Files=1
 
 [Project Information]
-Project Start=E10704000400060012000700200000002F
-Working Time=671
+Project Start=E1070C000600090011000400030000001B
+Working Time=1057
